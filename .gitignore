@@ -23,3 +23,4 @@ public/assets
 
 # Platform specific
 .DS_Store
+.turbo
